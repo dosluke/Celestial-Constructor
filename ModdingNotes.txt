@@ -1,5 +1,7 @@
 Creating this to store some info to come back to for myself, and other aspiring mod creators in the future.
 
+NOTE: Any info in here may have errors. It has several sources including discord discussions and my own research.
+
 Only 2 sections of the folder structure matter. Scripts need to be in <MODROOT>\Data\Scripts\SomeFolder or deeper within somefolder. And SBCs need to be in <MODROOT>\Data or deeper within the data folder.
 Scripts must stay in the same folder because of the way the game assembles them.
 SBCs point to all the other related files relative to the root of the mod, or if they are not found, relative to the game folder.
